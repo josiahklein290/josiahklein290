@@ -1,7 +1,7 @@
-# Freshman Computer Science Major at Wright State University.
+## Freshman Computer Science Major at Wright State University.
 ## Languages: 
-Python
-Java
+### Python
+### Java
 ## Projects
 ### **Choose Your Own Adventure**: 
 In this text-based game, you play the role of a Russian ambassador to the US, attempting to halt a mistakenly launched nuclear missile. 
