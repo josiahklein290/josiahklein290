@@ -1,5 +1,5 @@
 ## Overview
-### Hello! I'm Josiah Klein, a Freshman Computer Science Major at Wright State University.
+Hello! I'm Josiah Klein, a Freshman Computer Science Major at Wright State University.
 ## Languages: 
 ### Python
 ### Java
